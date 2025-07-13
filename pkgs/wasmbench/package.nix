@@ -8,6 +8,7 @@
   wasmer,
   wasmtime,
   writeShellScriptBin,
+  coreutils,
 }:
 let
   wrap-iwasm =
@@ -75,6 +76,7 @@ replaceVarsWith {
   replacements = {
     path = lib.makeBinPath [
       bash
+      coreutils
       hyperfine
       wamr-aot
       wamr-classic

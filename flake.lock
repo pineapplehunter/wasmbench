@@ -61,11 +61,11 @@
         "systems": "systems_2"
       },
       "locked": {
-        "lastModified": 1752216207,
-        "narHash": "sha256-ZEBea312mWi4IYdMgIF+IzQE5TUKXjEYhTu5MTaQobo=",
+        "lastModified": 1752221495,
+        "narHash": "sha256-BWYhq+42hUKkNYUJ2iDyUXch7RvtcD/Ww02eVgx8NsA=",
         "owner": "pineapplehunter",
         "repo": "wamr-nix",
-        "rev": "b1bb050378f42358ecf46d3cc70858fcf9e12447",
+        "rev": "ee44f9b25b4a64784687ac998ead3b45ed73a110",
         "type": "github"
       },
       "original": {
